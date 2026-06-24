@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alrahma-moving.com/sitemap.xml
+Sitemap: https://zelofor6-cloud.github.io/alrahma-naqldabsh/sitemap.xml
